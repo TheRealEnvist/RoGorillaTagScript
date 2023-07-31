@@ -54,5 +54,5 @@ options.TurnAngle = 15         -- Change in angle left/right (degrees)
 options.ChatEnabled = true     -- See chat on your left hand in-game
 options.ChatLocalRange = 70   -- Local chat range
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/saucekid/sauceVR/main/extra/ROrilla.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheRealEnvist/RoGorillaTagScript/main/ROrilla.lua"))();
 
